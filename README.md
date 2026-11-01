@@ -6,7 +6,7 @@
 - `src/fast_io/`：快速输入输出模板（Fast I/O）
 
 ## 🛠️ 环境
-- JDK: 17+ (或者写你自己的版本)
+- JDK: 17+
 - IDE: IntelliJ IDEA
 
 ## 📝 备注
